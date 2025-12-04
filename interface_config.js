@@ -10,8 +10,8 @@
 
 var interfaceConfig = {
     APP_NAME: 'CONTORNO Meet',
-    AUDIO_LEVEL_PRIMARY_COLOR: 'rgba(255, 0, 0, 0.4)',
-    AUDIO_LEVEL_SECONDARY_COLOR: 'rgba(25, 0, 247, 0.2)',
+    AUDIO_LEVEL_PRIMARY_COLOR: 'rgba(255,255,255,0.4)',
+    AUDIO_LEVEL_SECONDARY_COLOR: 'rgba(255,255,255,0.2)',
 
     /**
      * A UX mode where the last screen share participant is automatically
@@ -26,7 +26,7 @@ var interfaceConfig = {
 
     CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
 
-    DEFAULT_BACKGROUND: '#040404',
+    DEFAULT_BACKGROUND: '#D7DEDC',
     DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/contorno/logo2_contorno.png',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
