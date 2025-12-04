@@ -26,7 +26,7 @@ var interfaceConfig = {
 
     CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
 
-    DEFAULT_BACKGROUND: '#D7DEDC',
+    DEFAULT_BACKGROUND: '#1C2935',
     DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/contorno/logo2_contorno.png',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
